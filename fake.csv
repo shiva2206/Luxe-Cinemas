@@ -1,0 +1,22 @@
+_,date,programtime,movie,language,showtime,certification,image file 1,image file 2,format,directed by,cast,genre,bookingscreen
+1,22/1/2021,0:00,master,tamil,4:00 A M,(U/A),master.png,master(2).png,2D,Lokesh kanagaraj,Vijay Vijay sethupathi Malavika ,action thriller,Fseat2.csv
+2,22/1/2021,4:00,valimai,tamil,8:00 A M,(U/A),valimai.png,valimai(2).png,2D,H.Vinoth,Ajith Huma qureshi Janhvi kapoor,action,Fseat3.csv
+3,22/1/2021,8:00,tenet,english,12:00 P M,(U/A),tenet.png,tenet(2).png,imax 2D,Christopher nolan,John david washington Robert pattinson ,science fiction,Fseat4.csv
+4,22/1/2021,12:00,master,tamil,4:00 P M,(U/A),master.png,master(2).png,2D,Lokesh kanagaraj,Vijay Vijay sethupathi Malavika mohanan ,action thriller,Fseat5.csv
+5,22/1/2021,16:00,valimai,tamil,8:00 P M,(U/A),valimai.png,valimai(2).png,2D,H.Vinoth,Ajith Huma qureshi Janhvi kapoor,action,Fseat6.csv
+6,22/1/2021,20:00,vikram,tamil,12:00 A M,(U/A),vikram.png,vikram(2).png,2D,Lokesh kanagaraj,Kamal haasan,drama,Sseat1.csv
+7,23/1/2021,0:00,master,tamil,4:00 A M,(U/A),master.png,master(2).png,2D,Lokesh kanagaraj,Vijay Vijay sethupathi Malavika ,action thriller,Sseat2.csv
+8,23/1/2021,4:00,cobra,tamil,8:00 A M,(U/A),cobra.png,cobra(2).png,2D,R.Ajay gnanamuthu,Vikram Srinidhi shetty Irfan pathan,thriller,Sseat3.csv
+9,23/1/2021,8:00,vikram,tamil,12:00 P M,(U/A),vikram.png,vikram(2).png,2D,Lokesh kanagaraj,Kamal haasan,drama,Sseat4.csv
+10,23/1/2021,12:00,soorarai pottru,tamil,4:00 P M,(U/A),soorarai pottru.png,soorarai pottru(2).png,2D,Sudha kongara,Surya Aparna balamurali Urvashi Paresh ,drama,Sseat5.csv
+11,23/1/2021,16:00,cobra,tamil,8:00 P M,(U/A),cobra.png,cobra(2).png,2D,R.Ajay gnanamuthu,Vikram Srinidhi shetty Irfan pathan ,thriller,Sseat6.csv
+12,23/1/2021,20:00,valimai,tamil,12:00 A M,(U/A),valimai.png,valimai(2).png,2D,H.Vinoth,Ajith Huma qureshi Janhvi kapoor,action,SUseat1.csv
+13,24/1/2021,0:00,kgf chapter 2,tamil,4:00 A M,(A),kgf chapter 2.png,kgf chapter 2(2).png,2D,Prashanth neel,Yash Sanjay dutt Srinidhi shetty Raveena ,action,SUseat2.csv
+14,24/1/2021,4:00,vikram,tamil,8:00 A M,(U/A),vikram.png,vikram(2).png,2D,Lokesh kanagaraj,Kamal haasan,drama,SUseat3.csv
+15,24/1/2021,8:00,valimai,tamil,12:00 P M,(U/A),valimai.png,valimai(2).png,2D,H.Vinoth,Ajith Huma qureshi Janhvi kapoor,action,SUseat4.csv
+16,24/1/2021,12:00,tenet,english,4:00 P M,(U/A),tenet.png,tenet(2).png,imax 2D,Christopher nolan,John david washington Robert pattinson ,science fiction,SUseat5.csv
+17,24/1/2021,16:00,kgf chapter 2,tamil,8:00 P M,(A),kgf chapter 2.png,kgf chapter 2(2).png,2D,Prashanth neel,Yash Sanjay dutt Srinidhi shetty Raveena ,action,SUseat6.csv
+18,24/1/2021,20:00,master,tamil,4:00 P M,(U/A),master.png,master(2).png,2D,Lokesh kanagaraj,Vijay Vijay sethupathi Malavika ,action thriller,Fseat1.csv
+19,25/01/2021,4:00,master,tamil,8:00 A M,(U/A),master.png,master(2).png,2D,Lokesh kanagaraj,Vijay Vijay sethupathi Malavika ,action thriller,Mseat1.csv
+20,25/01/2021,0:00,master,tamil,4:00 A M,(U/A),master.png,master(2).png,2D,Lokesh kanagaraj,Vijay Vijay sethupathi Malavika ,action thriller,Mseat2.csv
+21,23/01/2021,8:00,valimai,tamil,12:00 P M,(U/A),valimai.png,valimai(2).png,2D,H.Vinoth,Ajith Huma qureshi Janhvi kapoor,action,Mseat3.csv

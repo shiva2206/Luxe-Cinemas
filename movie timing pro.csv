@@ -1,0 +1,19 @@
+_,date,programtime,movie,language,showtime,certification,image file 1,image file 2,format,directed by,cast,genre,bookingscreen,trailer,seatsfilled,silver,premiere
+0,23-12-2023,00:00,kgf chapter 2,tamil,12:00 A M,(A),kgf chapter 2.png,kgf chapter 2(2).png,2D,Prashanth neel,Yash Sanjay dutt Srinidhi shetty Raveena ,action,Fseat1.csv,kgf chapter 2 trailer.mp4,0,0,0
+1,23-12-2023,04:00,master,tamil,4:00 A M,(U/A),master.png,master(2).png,2D,Lokesh kanagaraj,Vijay Vijay sethupathi Malavika ,action thriller,Fseat2.csv,master trailer.mp4,0,0,0
+2,23-12-2023,08:00,valimai,tamil,8:00 A M,(U/A),valimai.png,valimai(2).png,2D,H.Vinoth,Ajith Huma qureshi Janhvi kapoor,action,Fseat3.csv,valimai trailer.mp4,0,0,0
+3,23-12-2023,12:00,tenet,english,12:00 P M,(U/A),tenet.png,tenet(2).png,imax 2D,Christopher nolan,John david washington Robert pattinson ,science fiction,Fseat4.csv,tenet trailer.mp4,0,0,0
+4,23-12-2023,16:00,master,tamil,4:00 P M,(U/A),master.png,master(2).png,2D,Lokesh kanagaraj,Vijay Vijay sethupathi Malavika mohanan ,action thriller,Fseat5.csv,master trailer.mp4,0,0,0
+5,23-12-2023,20:00,valimai,tamil,8:00 P M,(U/A),valimai.png,valimai(2).png,2D,H.Vinoth,Ajith Huma qureshi Janhvi kapor,action,Fseat6.csv,valimai trailer.mp4,0,0,0
+6,24-12-2023,00:00,vikram,tamil,12:00 A M,(U/A),vikram.png,vikram(2).png,2D,Lokesh kanagaraj,Kamal haasan,drama,Sseat1.csv,vikram trailer.mp4,0,0,0
+7,24-12-2023,04:00,master,tamil,4:00 A M,(U/A),master.png,master(2).png,2D,Lokesh kanagaraj,Vijay Vijay sethupathi Malavika ,action thriller,Sseat2.csv,master trailer.mp4,0,0,0
+8,24-12-2023,08:00,cobra,tamil,8:00 A M,(U/A),cobra.png,cobra(2).png,2D,R.Ajay gnanamuthu,Vikram Srinidhi shetty Irfan pathan,thriller,Sseat3.csv,cobra trailer.mp4,0,0,0
+9,24-12-2023,12:00,vikram,tamil,12:00 P M,(U/A),vikram.png,vikram(2).png,2D,Lokesh kanagaraj,Kamal haasan,drama,Sseat4.csv,vikram trailer.mp4,0,0,0
+10,24-12-2023,16:00,soorarai pottru,tamil,4:00 P M,(U/A),soorarai pottru.png,soorarai pottru(2).png,2D,Sudha kongara,Surya Aparna balamurali Urvashi Paresh ,drama,Sseat5.csv,soorarai pottru trailer.mp4,0,0,0
+11,24-12-2023,20:00,cobra,tamil,8:00 P M,(U/A),cobra.png,cobra(2).png,2D,R.Ajay gnanamuthu,Vikram Srinidhi shetty Irfan pathan ,thriller,Sseat6.csv,cobra trailer.mp4,0,0,0
+12,25-12-2023,00:00,valimai,tamil,12:00 A M,(U/A),valimai.png,valimai(2).png,2D,H.Vinoth,Ajith Huma qureshi Janhvi kapor,action,SUseat1.csv,valimai trailer.mp4,0,0,0
+13,25-12-2023,04:00,kgf chapter 2,tamil,4:00 A M,(A),kgf chapter 2.png,kgf chapter 2(2).png,2D,Prashanth neel,Yash Sanjay dutt Srinidhi shetty Raveena ,action,SUseat2.csv,kgf chapter 2 trailer.mp4,0,0,0
+14,25-12-2023,08:00,vikram,tamil,8:00 A M,(U/A),vikram.png,vikram(2).png,2D,Lokesh kanagaraj,Kamal haasan,drama,SUseat3.csv,vikram trailer.mp4,4,0,4
+15,25-12-2023,12:00,valimai,tamil,12:00 P M,(U/A),valimai.png,valimai(2).png,2D,H.Vinoth,Ajith Huma qureshi Janhvi kapor,action,SUseat4.csv,valimai trailer.mp4,0,0,0
+16,25-12-2023,16:00,tenet,english,4:00 P M,(U/A),tenet.png,tenet(2).png,imax 2D,Christopher nolan,John david washington Robert pattinson ,science fiction,SUseat5.csv,tenet trailer.mp4,0,0,0
+17,25-12-2023,20:00,tenet,english,12:00 P M,(U/A),tenet.png,tenet(2).png,imax 2D,Christopher nolan,John david washington Robert pattinson ,science fiction,THseat4.csv,tenet trailer.mp4,0,0,0

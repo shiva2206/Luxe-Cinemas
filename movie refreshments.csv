@@ -1,0 +1,32 @@
+id,item,type,cost,image
+101,small popcorn,appetizer,80,appetizer.png
+102,medium popcorn,appetizer,120,appetizer.png
+103,large popcorn,appetizer,160,appetizer.png
+104,small coke,drink,70,drink.png
+105,medium coke,drink,90,drink.png
+106,large coke,drink,110,drink.png
+107,small sprite,drink,70,drink.png
+108,medium sprite,drink,90,drink.png
+109,large sprite,drink,110,drink.png
+110,small water bottle,beverage,70,beverage.png
+111,large water bottle,beverage,90,beverage.png
+112,tea,beverage,40,beverage.png
+113,coffee,beverage,60,beverage.png
+114,cold coffee,beverage,80,beverage.png
+115,small french fries,appetizer,60,appetizer.png
+116,medium french fries,appetizer,100,appetizer.png
+117,large french fries,appetizer,140,appetizer.png
+118,panner and corn burger,appetizer,80,appetizer.png
+119,aloo tikki burger,appetizer,60,appetizer.png
+120,chilli cheese burger,appetizer,100,appetizer.png
+121,cheesy chicken burger,appetizer,120,appetizer.png
+122,chilli egg burger,appetizer,130,appetizer.png
+123,veg corn puff,appetizer,40,appetizer.png
+124,veg panner puff,appetizer,50,appetizer.png
+125,chilli egg puff,appetizer,60,appetizer.png
+126,chicken puff,appetizer,80,appetizer.png
+127,vanilla ice cream,desert,60,dessert.png
+128,butterscotch ice cream,desert,70,dessert.png
+129,strawberry ice cream,desert,70,dessert.png
+130,black currant ice cream,desert,100,dessert.png
+131,chocolate ice cream,desert,100,dessert.png
